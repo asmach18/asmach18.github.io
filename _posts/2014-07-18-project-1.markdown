@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: G0043455.JPG
 alt: image-alt
 
 description: Моя первая проба снимать видео. Выложила на yotube мой первый ролик <a href="https://www.youtube.com/watch?v=3O6iFoqpNxE">Посмотреть</a>.
