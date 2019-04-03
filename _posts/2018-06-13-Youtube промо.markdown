@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: logo1.jpg
 alt: image-alt
-    ![My helpful screenshot]({{ site.url }}https://lh3.googleusercontent.com/hbhls8XPBJUzy3qyDYTTAjttoHwGl0npZrVm5saQxEwBkiEXXdgldP3a0pkCZe9ctsugvWLYpNW7INt4oYXJsF7dA0rEYaNgt1DIfsQYNVU_-c8xZPbK1A01HV3ikubJhKW4F67b9eTUwM1lFUL9GNHw47v7JIbSPEPVD7w3ITLSMm4HFgtoAYt2xZBO3YOa7yx-d6C5n1o0Sk2fbOIWo1DvviK0TkCtGNpsTu_RVeH9Wi_w_eyVY1AEMSk-L7s1DcZ1-DGGo2HUxQNjjiaA0vtza42Y_lvRGPpeSjB2mfjUfBIrbIctNFGe7O_jkfjg3SMiwLp9tRxwPBP8TWlhtVCFoQZxbHeBL3t90hQC49RJecFM6NM7CjsAz1KjYWs3p-XVPUGb88O4Sf3WU6-TAokMAjCHbnCXwXuo_iR4uiXG3rfE86eWHVfDdwy2zl768MkXWV8QlihZQw4eb7pNnusc0WR8Gi2KkyPJDprFzJD5_AjYLTVk_QgXjQ2LxnG3PBMI9SMH7_28e5THw_-9dC6szildnkqWDdQhNkAs-b1SlSudKuMSvgj6NPqh8FuCpaoUQ07DtMjKFYQnKAmQ73DgfB7JyStBHcS5JydOTC0uk8Xg3CR-fQhA2y_OkvemIALOw6bhQmCECfiY_9GdHBNhkMekAPw=w1638-h921-no)
+![My helpful screenshot]({{ site.url }}https://photos.app.goo.gl/VdWyj9eg7p4171tu5)
 description: Моя первая проба снимать видео. Выложила на yotube мой первый ролик <a href="https://www.youtube.com/watch?v=3O6iFoqpNxE">Посмотреть</a>.
 
 ---
