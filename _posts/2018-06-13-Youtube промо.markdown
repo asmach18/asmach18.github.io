@@ -4,7 +4,6 @@ modal-id: 1
 date: 2014-07-18
 img: logo1.jpg
 alt: image-alt
-![My helpful screenshot]({{ site.url }}https://photos.app.goo.gl/VdWyj9eg7p4171tu5)
 description: Моя первая проба снимать видео. Выложила на yotube мой первый ролик <a href="https://www.youtube.com/watch?v=3O6iFoqpNxE">Посмотреть</a>.
 
 ---
