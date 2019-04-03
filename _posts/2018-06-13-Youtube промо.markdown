@@ -5,5 +5,6 @@ date: 2014-07-18
 img: logo1.jpg
 alt: image-alt
 description: Моя первая проба снимать видео. Выложила на yotube мой первый ролик <a href="https://www.youtube.com/watch?v=3O6iFoqpNxE">Посмотреть</a>.
+https://drive.google.com/uc?id=1lE_I0-TnJZCsjt3hx1MIkU1vKvkMttj_bw
 
 ---
