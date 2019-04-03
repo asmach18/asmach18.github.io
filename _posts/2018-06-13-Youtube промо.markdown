@@ -4,6 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: logo1.jpg
 alt: image-alt
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/e2/93/56/e29356f6-a7a5-0aa3-0969-1c2be8630815/AppIcon-1x_U007emarketing-85-220-0-7.png/246x0w.jpg" />
 description: Моя первая проба снимать видео. Выложила на yotube мой первый ролик <a href="https://www.youtube.com/watch?v=3O6iFoqpNxE">Посмотреть</a>.
 
 
